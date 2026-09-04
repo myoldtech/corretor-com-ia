@@ -25,7 +25,7 @@ Use o [prompt de triagem do vídeo #2](prompt-triagem-leads-whatsapp.md) — o m
 | 4 | **Acabamento** | Rascunho pronto p/ enviar | Acentos completos, sem preguiça de português |
 | 5 | **Uma pergunta por mensagem** | Rascunho do pet | Máx. 1 pergunta — lead responde melhor a uma coisa só |
 
-## Resultado real deste teste (07/09/2026)
+## Resultado real deste teste (executado em 03/09/2026)
 
 | Critério | ChatGPT | Gemini | Grok |
 |----------|---------|--------|------|
