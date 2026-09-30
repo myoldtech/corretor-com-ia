@@ -14,6 +14,8 @@ Cada vídeo traz um entregável: prompt, checklist ou planilha — prontos para 
 | #4 — A IA que audita anúncios | Prompt de auditoria de anúncio | [prompt-auditoria-anuncio-v2.md](entregaveis/prompt-auditoria-anuncio-v2.md) |
 | #5 — Como a IA lê um edital de leilão em 2 min | Checklist de due diligence de leilão | [checklist-due-diligence-leilao.md](entregaveis/checklist-due-diligence-leilao.md) |
 
+| #6 — Lead frio não é lead morto: o sistema de reativação dos 7 dias | Template de reativação (prompt + 3 mensagens) | [template-reativacao-7-dias.md](entregaveis/template-reativacao-7-dias.md) |
+
 ---
 
  Canal: youtube.com/@CorretorComIA
